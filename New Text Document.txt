@@ -1,0 +1,3 @@
+Experience in ensebel algorithm and hyper parameter tuning.
+
+Abandoning and cancelling the incidents(everyday 3000 incidents are abandoned and cancelled) is done by agents for various reasons. Thats what needed to be extracted.
